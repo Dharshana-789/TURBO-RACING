@@ -96,3 +96,11 @@ Language: Python
 Library: Pygame
 
 🏁 Start your engine, collect coins and become the Turbo Racing champion!
+
+⭐ Support My Project
+
+This is one of my first-year college projects! ❤️
+
+If you like my project, please give it a ⭐ star on GitHub. Your support motivates me to create more amazing projects!
+
+Thank you for your support! 🙏❤️
