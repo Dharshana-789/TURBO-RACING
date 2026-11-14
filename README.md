@@ -40,13 +40,21 @@ Dodge enemy cars, collect gold coins, activate Nitro and enjoy exciting racing a
 Key	Action
 Mouse Click	Start Race
 ↑ Arrow	Move Up
+
 ↓ Arrow	Move Down
+
 ← Arrow	Move Left
+
 → Arrow	Move Right
+
 SHIFT	Nitro
+
 SPACE	Drift
+
 R	Restart
+
 ESC	Main Menu
+
 🛠️ Requirements
 Python 3
 Pygame
