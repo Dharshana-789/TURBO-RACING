@@ -7,20 +7,35 @@ A fun and exciting 2D arcade racing game built using Python and Pygame.
 Dodge enemy cars, collect gold coins, activate Nitro and enjoy exciting racing animations!
 
 🎮 Game Features
+
 🏎️ Detailed sports car graphics
+
 🚗 5 AI enemy cars
+
 🛣️ Scrolling racing road
+
 🪙 Animated gold coins
+
 💰 Collect 10 points per coin
+
 🔥 Nitro flame animation
+
 💨 Drifting smoke effects
+
 💥 Crash sparks and screen shake
+
 ✨ Animated coin collection effects (+10)
+
 🏁 3-2-1-GO countdown
+
 🌧️ Rain and water splash effects
+
 ⚡ Speed line animations
+
 🎨 Animated start menu
+
 🔄 Restart option
+
 🕹️ Controls
 Key	Action
 Mouse Click	Start Race
